@@ -1,0 +1,15 @@
+.StreamList-description {
+	color: #B7CECF;
+}
+
+.StreamList-button-delete:focus {
+	outline-color: #A75000 
+}
+
+.StreamList-button-edit:focus {
+	outline-color: #0968ed;
+}
+
+.StreamList-button-edit {
+	text-decoration: none;
+}
